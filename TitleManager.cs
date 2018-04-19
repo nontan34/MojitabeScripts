@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class TitleManager : MonoBehaviour {
+	//GITのテストのためのダミー変更
 
 	// Use this for initialization
 	void Start () {
