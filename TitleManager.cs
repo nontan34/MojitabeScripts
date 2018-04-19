@@ -4,7 +4,6 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class TitleManager : MonoBehaviour {
-	//GITのテストのためのダミー変更
 
 	// Use this for initialization
 	void Start () {
@@ -12,7 +11,7 @@ public class TitleManager : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+		//さらに別の行に変更テスト。GITGIT
 	}
 
 	public void PushStartButton(){
